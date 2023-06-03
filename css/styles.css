@@ -82,14 +82,25 @@ a {
 
 /* ========= HEADER ========= */
 
-.header {}
+.header {
+}
+.header .container {
+  display: flex;
+  align-items: center;
+}
 
-.header-logo {}
+.header-logo {
+}
 
-.header-nav {}
+.header-nav {
+}
 
-.header-list {}
+.header-list {
+  display: flex;
+}
 
-.header-item {}
+.header-item {
+}
 
-.header-link {}
+.header-link {
+}
